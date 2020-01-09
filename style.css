@@ -1,0 +1,26 @@
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.profile-pic {
+  display: inline-block;
+  margin: 0 auto;
+  /* margin-left: -25%; */
+  height: 100%;
+  width: auto;
+}
+.homework-pic-large-resize {
+  height: 30%;
+  width: auto;
+}
+.homework-pic-medium-resize {
+  height: 40%;
+  width: auto;
+}
+.homework-pic-small-resize {
+  height: 60%;
+  width: auto;
+}
